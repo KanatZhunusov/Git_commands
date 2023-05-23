@@ -1,0 +1,13 @@
+git config --global user.name "KanatZhunusov"
+
+git config --global user.email "zhunusov787@yandex.ru"
+
+git add .
+
+git commit  -m "My portfolio"
+
+git push
+
+git pull
+
+
